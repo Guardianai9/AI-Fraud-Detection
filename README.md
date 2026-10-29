@@ -1,5 +1,3 @@
-# AI-Fraud-Detection
-
 # Guardian AI - Financial Fraud & Scam Advisor Chatbot
 
 Guardian AI is a specialized chatbot designed to detect financial frauds and scams in text messages and images (e.g., screenshots of fake ads, phishing emails).
