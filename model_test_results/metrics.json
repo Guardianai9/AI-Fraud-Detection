@@ -1,0 +1,20 @@
+{
+  "test_samples": 1034,
+  "accuracy": 0.97678916827853,
+  "precision": 0.928,
+  "recall": 0.8854961832061069,
+  "f1_score": 0.90625,
+  "roc_auc": 0.9932075439797791,
+  "confusion_matrix": [
+    [
+      894,
+      9
+    ],
+    [
+      15,
+      116
+    ]
+  ],
+  "prediction_time_seconds": 0.024815699995087925,
+  "average_latency_ms": 0.023999709859852926
+}
